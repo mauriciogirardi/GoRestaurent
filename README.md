@@ -14,8 +14,7 @@ Este repositório é referente ao desafio 'CRUD React' do Bootcamp GoStack 11.0,
 # Proposta
 Este projeto é um estudo em React para treinar funções básicas de uma aplicação, tais como o CRUD (Create, Read, Update and Delete).
 Para tornar o desafio mais complexo, também foi introduzido o isolamento de componentes que executam cada uma das operações e
-a definição de tipos mais complexos, utilizando funções como propriedades entre os componentes. O diferencial do meu projeto é o tema
-Dark e a responsividade para todos os tipos de tela.
+a definição de tipos mais complexos, utilizando funções como propriedades entre os componentes.
 
 
 # Tecnologias Utilizadas
